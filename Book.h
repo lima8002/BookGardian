@@ -12,23 +12,25 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface Book : NSObject
 
-@property UIImage* photo;
+@property NSString* bookId;
 @property NSString* name;
 @property NSString* update;
 @property NSString* page;
 @property NSString* total;
 @property NSString* type;
-@property NSString* idBook;
+@property NSString* photo;
 
 
 // constructor
--(instancetype) initWithPhoto : (UIImage*) photo
-                         name : (NSString*) name
+-(instancetype) initWithName : (NSString*) name
                        update : (NSString*) update
                          page : (NSString*) page
                         total : (NSString*) total
                          type : (NSString*) type
-                       idBook : (NSString*) idBook;
+                        photo : (NSString*) photo
+                       bookId : (NSString*) bookId;
+
+- (instancetype)initWithDictionary: (NSDictionary*) dictionary;
 
 @end
 

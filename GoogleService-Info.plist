@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>188184490501-70dv9f67kuo2bgcdq44kevovkoudi37t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.188184490501-70dv9f67kuo2bgcdq44kevovkoudi37t</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBYV-COb-XyTGTXD5mlNDZRTNA5vrTgcJM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>188184490501</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.eDUX.BookGardian</string>
+	<key>PROJECT_ID</key>
+	<string>bookgardianapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bookgardianapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:188184490501:ios:d9890c68dfb1f24265a26c</string>
+</dict>
+</plist>
